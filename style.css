@@ -1,6 +1,26 @@
+body{
+    background-image:linear-gradient(to left, #4EC3D1,#4EC3D1,#DCF2F5);
+    
+}
+
 .flex-container{
+    margin: auto;
+    width: 50%;
+    padding-top: 5%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #E9F7F9;
+    margin-top: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 20px
+}
+
+h1{
+    text-decoration: underline;
+    color: #4EC3D1;
+    text-shadow: 2px 0 0 #206791, -2px 0 0 #206791, 0 2px 0 #206791, 0 -2px 0 #206791, 1px 1px #206791, -1px -1px 0 #206791, 1px -1px 0 #206791, -1px 1px 0 #206791;
+    font-family: 'Red Rose', cursive;
 }
