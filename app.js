@@ -14,6 +14,6 @@ function palindrome(str) {
     var stringTwo = arrayTwo.toString();
     var lowerTwo = stringTwo.toLowerCase();
     if (lowerOne === lowerTwo){
-      document.getElementById("answer").innerHTML= 'True'
-    } else {document.getElementById("answer").innerHTML = 'False'}
+      document.getElementById("answer").innerHTML= 'This <em>is</em> a palindrome!'
+    } else {document.getElementById("answer").innerHTML = 'This <em>is not</em> a palindrome.'}
     }
