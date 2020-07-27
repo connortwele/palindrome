@@ -13,9 +13,9 @@ body{
     align-items: center;
     background-color: #E9F7F9;
     margin-top: 5%;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    border-radius: 20px
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 20px;
 }
 
 h1{
